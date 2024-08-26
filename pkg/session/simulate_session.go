@@ -1,0 +1,6 @@
+package session
+
+
+func InteractUser() {
+	
+}
